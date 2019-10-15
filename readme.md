@@ -61,6 +61,20 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [Appoly](https://www.appoly.co.uk)
 - [OP.GG](https://op.gg)
 
+## How to use
+` git clone https://github.com/sutin1234/laravel6-swagger.git`
+`cd laravel6-swagger`
+`composer install`
+
+## Running Laravel Project
+`php artisan serve`
+
+## Access Swagger
+`http://localhost:8000/api/documentation`
+
+## Screenshort
+![alt text](Screenshort/l5-swagger.png)
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
